@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "../css/dataentry.css";
+@import "../css/dataview.css";
+@import"../css/auth1.css";
+@import"../css/custom.css";
